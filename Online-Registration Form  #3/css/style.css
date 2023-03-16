@@ -231,7 +231,7 @@ input.con-info select{
 	padding-bottom: 15px;
 }
 input[type=text],.placeholder{
-  width: 70%;
+  width: 66%;
 }
 input[type=email], .placeholder {
   width: 70%;
